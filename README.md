@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hola, Bienvenidos 👋
+
+Soy Juan José, una persona inquieta tanto intelectual como personalmente, siempre en busca de nuevos retos y aprendizajes. Me apasiona investigar sobre tecnología, un campo en el que tengo estudios en Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Multiplataforma y Desarrollo Web. A pesar de que la carrera está pendiente de finalizar por motivos personales, tengo la firme intención de concluirla cuando logre compaginarla con mis otras responsabilidades.
+
+En mi tiempo libre, disfruto tanto de actividades al aire libre como el patinaje, como de momentos con amigos, lo que me permite equilibrar mi vida personal y profesional. Mi enfoque está siempre en crecer, tanto como profesional como individuo, y aportar valor en los proyectos en los que me involucro, con un compromiso continuo hacia la innovación y la mejora.
+
+
 
 <!--
 **Jruizferrera/Jruizferrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
